@@ -1,3 +1,3 @@
 # coin-counter
-![coin-counter-logo](logo.png)
+![coin-counter-logo](coin-counter-logo.png)
 Flutter/Dart based application meant for allouance and task tracking for children and families.
